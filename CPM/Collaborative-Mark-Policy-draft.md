@@ -17,7 +17,16 @@ This trademark policy seeks to minimize the hurdles of trademark licensing. We a
 ## 1. What does this policy apply to?
 
 ### 1.1. The “Community marks”
-This policy applies to all trademarks of the Community. The trademarks are both registered and unregistered trademarks, including non-stylized wordmarks and the trade dress of each Community project. In this policy, we refer to them as the “Community marks” or just “marks.” Here is a non-exclusive list of our trademarks: `[list wordmarks and logos]`.
+This policy applies to all trademarks of the Community. The trademarks are both registered and unregistered trademarks, including non-stylized wordmarks and the trade dress of each Community project. In this policy, we refer to them as the “Community marks” or just “marks.” Here is a non-exclusive list of our trademarks: 
+- "OpenStreetMap"
+- "OSM" when used in the geo data context
+- the OpenStreetMap magnifying glass logo
+- "OpenStreetMap Foundation"
+- "OSM Foundation"
+- "OSMF" `[when used in the geodata context?]`
+- "State of the Map"
+- "SotM" `[when used in the geodata context?]`
+- the logos of the State of the Map conference
 
 ### 1.2. “Use” of the Community marks
 This policy applies whenever you want to use the Community marks. Section 2 of this policy applies to all uses of the marks. Other sections apply only to uses that do not require separate permission, uses that require a trademark license, or uses under agreements held by `[insert groups/organizations recognized by the community, if any (e.g. user groups)]`. If some term in your trademark license is inconsistent with this policy, you should follow the license terms. 
