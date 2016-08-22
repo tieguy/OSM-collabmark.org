@@ -5,6 +5,7 @@ _Draft_
 - [ ] Copy community mission language from existing policy
 - [ ] Ask OSM about quick license - does it make sense for OSM?
 - [ ] Consider subsections/clarifying headings (FAQ-style?) in intro paragraph - "what is this document", "what are the goals of the document", etc.
+- [ ] All the "applies to" stuff is just garbage - junk it.
 
 The Community marks represent `[insert  community's mission or overarching project function]`. Trademark protection reinforces the connection between the Community marks and the projects that they represent. The protection serves to ensure that the marks are only used for activities that promote our mission. 
 
