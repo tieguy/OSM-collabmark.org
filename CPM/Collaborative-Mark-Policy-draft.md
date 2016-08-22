@@ -36,14 +36,14 @@ This policy applies whenever you want to use the Community marks. Section 2 of t
 This policy regulates the use of marks held by the Open Street Map Foundation, who acts as a steward for the Community marks.  Sometimes, this policy simply refers to the Trademark steward as “we.” 
 
 ### 1.4. “You”
-This policy applies to “you” if you want to use the Community marks and explains how you may use them. You may be a member of Community or an unrelated individual or organization. 
+This policy applies to “you” if you want to use the Community marks and explains how you may use them. You may be a Community member (as further explained in Sec. 1.4.1) or an unrelated individual or organization (as further explained in Sec. 1.4.2).
 
 #### 1.4.1. Community members
 The community includes everyone who contributes to a community project in furtherance of our mission. It also includes members and staff of `[groups/organizations recognized by the community (e.g. user groups)]` and the Trademark steward.
 
 The members of the community share a common mission. They are the core of the movement. Accordingly, community members are free to use all Community marks on the Community projects and for community-focused events, as well as outreach work without a trademark license. Community members can also easily fill out a quick license for certain other community uses. And we generally give priority to community requests for uses that require an ordinary trademark license.
 
-#### 1.4.2. Other organizations or individuals
+#### 1.4.2. Unrelated organizations or individuals
 Community projects are so well known that authors and script writers frequently want to portray them in books and movies. Similarly, other companies may want to reuse content from Community projects in web or mobile applications. In doing so, these individuals and companies may want to display our marks in movies, books, apps, or other media. 
 
 As long as users are not confused about the source of those works, this type of use can promote the Community projects and mission by expanding the reach of the Community projects and potentially recruiting new members to the Community. But it’s important that the Community marks are not misleadingly used to market others’ products because that will confuse Community users. We therefore have to be careful when licensing the marks for these purposes. For example, when licensing the marks to an organization that has its own logo, we need to make sure that it doesn’t display any Community mark more prominently than its own logo or name. It’s helpful to always have a proper separation between the organization’s name and logo and any Community mark. Users should clearly see that the organization’s products or services are provided by that other organization rather than the Community. And such use is never allowed without a trademark license. 
