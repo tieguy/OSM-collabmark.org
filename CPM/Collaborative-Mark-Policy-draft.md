@@ -30,7 +30,7 @@ This policy applies to all trademarks of the Community. The trademarks are both 
 - the logos of the State of the Map conference
 
 ### 1.2. “Use” of the Community marks
-This policy applies whenever you want to use the Community marks. Section 2 of this policy applies to all uses of the marks. Other sections apply only to uses that do not require separate permission, uses that require a trademark license, or uses under agreements held by `[insert groups/organizations recognized by the community, if any (e.g. user groups)]`. If you have a separate trademark license from the Trademark steward, and it is inconsistent with this policy, you must follow those license terms, not this policy. 
+This policy applies whenever you want to use the Community marks. Section 2 of this policy applies to all uses of the marks. Other sections apply only to uses that do not require separate permission, uses that require a trademark license, or uses under agreements held by local chapters. If you have a separate trademark license from the Trademark steward, and it is inconsistent with this policy, you must follow those license terms, not this policy. 
 
 ### 1.3. “We” or the “Trademark steward”
 This policy regulates the use of marks held by the Open Street Map Foundation, who acts as a steward for the Community marks.  Sometimes, this policy simply refers to the Trademark steward as “we.” 
@@ -39,7 +39,7 @@ This policy regulates the use of marks held by the Open Street Map Foundation, w
 This policy applies to “you” if you want to use the Community marks and explains how you may use them. You may be a Community member (as further explained in Sec. 1.4.1) or an unrelated individual or organization (as further explained in Sec. 1.4.2).
 
 #### 1.4.1. Community members
-The community includes everyone who contributes to a community project in furtherance of our mission. It also includes members and staff of `[groups/organizations recognized by the community (e.g. user groups)]` and the Trademark steward.
+The community includes everyone who contributes to a community project in furtherance of our mission. It also includes members and staff of recognized OSM organizations, such as the local chapters and the Trademark steward.
 
 The members of the community share a common mission. They are the core of the movement. Accordingly, community members are free to use all Community marks on the Community projects and for community-focused events, as well as outreach work without a trademark license. Community members can also easily fill out a quick license for certain other community uses. And we generally give priority to community requests for uses that require an ordinary trademark license.
 
