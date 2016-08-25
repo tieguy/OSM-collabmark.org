@@ -84,12 +84,10 @@ Regardless of whether you use a notice or a trademark symbol to identify your us
 
 ## 3. When you may use the Community marks without asking us 
 
-### 3.2. Community-focused events
-You may use the trademarks for events that promote our mission and are intended to be predominantly attended by community members. These are events like `[insert relevant events attended predominantly by community members]`. 
+### 3.1. Community-focused events
+You may use the trademarks for events that promote our mission and are intended to be predominantly attended by community members, like [mapathons](http://wiki.openstreetmap.org/wiki/Mapathon). For example, you can put the OSM logo on banners and posters to promote a mapathon you've organized. 
 
-For example, you can put the `[insert name of community’s logo] on banners and posters at an [relevant event attended predominantly by community members]` you've organized. 
-
-`[Insert important trademark uses that promote the Community projects but are not predominantly visible only to community members]` require a quick license under Section 4.1. This provision also does not allow you to use the marks for fundraising. 
+You may not use the mark to fundraise for the event, though.
 
 ### 3.3. Outreach and recruiting new contributors 
 You may use the marks consistent with our mission to educate people about the Community projects and to recruit new contributors, as long as you make it clear that you do not work for the Trademark steward. You can create educational material or banners to decorate a public fair stand or to publicize an `[relevant event]`. But, please don’t sell any of them. 
