@@ -5,7 +5,7 @@ _Draft_
 - [ ] Copy community mission language from existing policy
 - [ ] Ask OSM about quick license - does it make sense for OSM?
 - [ ] Consider subsections/clarifying headings (FAQ-style?) in intro paragraph - "what is this document", "what are the goals of the document", etc.
-- [ ] Consider rewriting introductory paragraph of Sec. 2
+- [ ] Discuss applicability (nth try at this).
 - [ ] Pick one of "you may" or "you can".
 
 The Community marks represent `[insert  community's mission or overarching project function]`. Trademark protection reinforces the connection between the Community marks and the projects that they represent. The protection serves to ensure that the marks are only used for activities that promote our mission. 
@@ -58,9 +58,7 @@ The Community projects include the Open Street Map and related database, the Ope
 
 `[QQQ: LV believes OSM has no visual identity guidelines, or equivalent document on use of the mark. Please let me know if otherwise.]` 
 
-This policy governs any use by you of the Community marks. This section applies to all uses of the marks. Other sections apply only to uses that do not require separate permission, uses that require a trademark license, or uses under agreements held by local chapters. If you have a separate trademark license from the Trademark steward, and it is inconsistent with this policy, you must follow those license terms, not this policy. 
-
-Whenever you use the Community marks, note the following:
+This section applies to all uses of the Community marks, regardless of why you are allowed to use the marks. Whenever you use the Community marks, note the following:
 
 ### 2.1. Proper form
 
@@ -83,7 +81,9 @@ If the mark will primarily appear on a mobile screen or another medium with limi
 
 Regardless of whether you use a notice or a trademark symbol to identify your use of Community marks, make sure that your use does not suggest endorsement by or affiliation with the Trademark steward. 
 
-## 3. When you may use the Community marks without asking us 
+## 3. When you may use the Community marks without asking us
+
+In many cases, you can use the Community marks without asking the Community steward. This section lists those cases. Uses that are not allowed under this Section require a trademark license, discussed in more detail in Section 4.
 
 ### 3.1. Community-focused events
 You may use the trademarks for events that promote our mission and are intended to be predominantly attended by community members, like [mapathons](http://wiki.openstreetmap.org/wiki/Mapathon). For example, you can put the OSM logo on banners and posters to promote a mapathon you've organized. 
@@ -201,6 +201,8 @@ You follow our Visual Identity Guidelines; and
 You truthfully advertise to customers how much of the selling price, if any, will be donated to Community projects.
 
 ## 5. Prohibited uses
+
+Some uses of the marks are never permitted. This section discusses the most common examples of such prohibited uses.
 
 ### 5.1. Misleading mirrors and mimicking sites
 Please don’t create a website that mimics the ‘look and feel’ of a Community project. If you have a good reason to create a mimicking site, please contact the Trademark steward at `[email address]`. 
