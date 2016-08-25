@@ -6,6 +6,7 @@ _Draft_
 - [ ] Ask OSM about quick license - does it make sense for OSM?
 - [ ] Consider subsections/clarifying headings (FAQ-style?) in intro paragraph - "what is this document", "what are the goals of the document", etc.
 - [ ] Consider rewriting introductory paragraph of Sec. 2
+- [ ] Pick one of "you may" or "you can".
 
 The Community marks represent `[insert  community's mission or overarching project function]`. Trademark protection reinforces the connection between the Community marks and the projects that they represent. The protection serves to ensure that the marks are only used for activities that promote our mission. 
 
