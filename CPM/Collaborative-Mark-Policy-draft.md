@@ -99,32 +99,36 @@ This provision does not allow you to use the marks for fundraising.
 Wordmarks can sometimes have a primary meaning, in addition to representing a brand (like the words “apple” or “facebook”). We will interpret fair use broadly when you use the marks but really mean to talk about something other than the Community projects.
 
 ### 3.4. Refer to Community projects (nominative use)
-You can use the non-stylized wordmarks (e.g. `["Wikipedia"]`) to describe:
- - A Community project or another aspect of the movement in a text (e.g. `[“I love reading about new things on Wikipedia”]`).
- - Derivative work of a Community project in a way that is not misleading (e.g. `[“the encyclopedic content on this site is derived from Wikipedia”]`).
+You can use the non-stylized wordmarks (such as "Open Street Map") to name or refer to:
+ - A Community project or another aspect of the movement in a text (for example, "I love seeing my community on Open Street Map").
+ - A project derived from a Community project in a way that is not misleading (for example, "This company's maps are based on Open Street Map").
 
-Here are some specific cases of nominative use:
+Here are some specific examples of nominative use:
 
 #### 3.4.1. News reporting
 
-You may use the Community marks to make truthful statements about the Community projects in news reports and commentary.
+You can use the Community marks to make truthful statements about the Community projects in news reports and commentary.
 
 #### 3.4.2. Personal blogs and social media
-You can use the Community marks to make truthful statements about the Community projects in personal blogs and social media. But please don’t do it to imply endorsement by or affiliation to the Trademark steward. To avoid confusion, don’t use the Community logos in the background, as your profile image, or in the header of your blog. You should also not use the marks in the name of your blog or in your social media username. 
+You can use the Community marks to make truthful statements about the Community projects in personal blogs and social media. But please don’t imply endorsement by, or affiliation with, the Trademark steward. 
+
+To avoid confusion, don’t use the Community logos in the background, as your profile image, or in the header of your blog. You also should not use the marks in the name of your blog or in your social media username.
 
 #### 3.4.3. Artistic, scientific, literary, political, and other non-commercial uses 
 You can use the Community marks to discuss the Community projects in artistic, scientific, literary, and political work. 
 
-But please send us a request if you want to place a Community mark on the cover of your book, display a Community mark in a movie, or organize an event or presentation that could be interpreted to be endorsed by the Trademark steward. For more information, please see the portion of this policy on “special uses that require permission” (Section 4).
+But please send us a request if you want to place a Community mark on the cover of your book, display a Community mark in a movie, or organize an event or presentation that could appear to be endorsed by the Trademark steward. For more information, please see the portion of this policy on “special uses that require permission” (Section 4).
 
 You may also use the marks in satire or jokes. To avoid confusing users that your work is affiliated with the Community projects, it may be helpful to mark your work as “satire” or “parody.”
 
 #### 3.4.4. Links to Community projects
 
-You may use the marks on your own website as a hyperlink to the Community projects. `[If relevant: "The use of logos in hyperlinks should follow the Visual Identity Guidelines.  For example, the marks may be resized, but not modified in any other way."]`
+You may use the marks on your own website as a hyperlink to the Community projects. If you are using the logo, though, do not modify the logo except to resize it.
 
 ### 3.5. Make your own branded stuff
-You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. `[If relevant: "Make sure that your design follows the Visual Identity Guidelines."]` If you want to sell your branded stuff, you can request a license under Section 4.6. 
+You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. 
+
+If you want to _sell_ your branded stuff, you can request a license under Section 4.6. 
 
 ## 4. Special uses that require permission
 
