@@ -31,9 +31,9 @@ The community includes everyone who contributes to a community project in furthe
 The members of the community share a common mission. They are the core of the movement. Accordingly, community members are free to use all Community marks on the Community projects and for community-focused events, as well as outreach work without a trademark license. Community members can also easily fill out a quick license for certain other community uses. And we generally give priority to community requests for uses that require an ordinary trademark license.
 
 #### 1.4.2. Other organizations or individuals
-Community projects are so well known that authors and script writers frequently want to portray them in books and movies. Similarly, other companies may want to reuse content from Community projects in web or mobile applications. In doing so, these individuals and companies may want to display our marks in movies, books, apps, or other media. 
+Individuals and companies may want to use our content and display our well-known marks in movies, books, apps, or other media. As long as consumers of those media are not confused about the source of those works, this type of use can promote the Community projects and mission and potentially recruit new contributors to the Community. However, it is important that the Community marks are not misleadingly used to market others’ products, because that will confuse users of our project. 
 
-As long as users are not confused about the source of those works, this type of use can promote the Community projects and mission by expanding the reach of the Community projects and potentially recruiting new members to the Community. But it’s important that the Community marks are not misleadingly used to market others’ products because that will confuse Community users. We therefore have to be careful when licensing the marks for these purposes. For example, when licensing the marks to an organization that has its own logo, we need to make sure that it doesn’t display any Community mark more prominently than its own logo or name. It’s helpful to always have a proper separation between the organization’s name and logo and any Community mark. Users should clearly see that the organization’s products or services are provided by that other organization rather than the Community. And such use is never allowed without a trademark license. 
+We therefore have to be careful when licensing the marks for these uses. For example, when licensing the marks to an organization that has its own logo, we need to make sure that it doesn’t display any Community mark more prominently than its own logo or name. It’s helpful to always have a proper separation between the organization’s name and logo and any Community mark. Users should clearly see that the organization’s products or services are provided by that other organization rather than the Community. Because of this, such use is never allowed without a trademark license. 
 
 ### 1.5. “Mission”
 The Community marks should only be used for activities that promote our `[insert link to community’s mission statement], which is to [insert a short description of the mission]`. 
@@ -76,7 +76,7 @@ For example, you can put the `[insert name of community’s logo] on banners and
 
 `[Insert important trademark uses that promote the Community projects but are not predominantly visible only to community members]` require a quick license under Section 4.1. This provision also does not allow you to use the marks for fundraising. 
 
-### 3.3. Outreach and recruiting new editors 
+### 3.3. Outreach and recruiting new volunteers 
 You may use the marks consistent with our mission to educate people about the Community projects and to recruit new volunteers, as long as you make it clear that you do not work for the Trademark steward. You can create educational material or banners to decorate a public fair stand or to publicize an `[relevant event]`. But, please don’t sell any of them. 
 
 This provision does not allow you to use the marks for fundraising. 
