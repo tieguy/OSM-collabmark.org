@@ -5,7 +5,7 @@ _Draft_
 - [ ] Copy community mission language from existing policy
 - [ ] Ask OSM about quick license - does it make sense for OSM?
 - [ ] Consider subsections/clarifying headings (FAQ-style?) in intro paragraph - "what is this document", "what are the goals of the document", etc.
-- [ ] All the "applies to" stuff is just garbage - junk it.
+- [ ] Consider just removing all the "applies to" stuff from Sec. 1.
 
 The Community marks represent `[insert  community's mission or overarching project function]`. Trademark protection reinforces the connection between the Community marks and the projects that they represent. The protection serves to ensure that the marks are only used for activities that promote our mission. 
 
@@ -36,7 +36,7 @@ This policy applies whenever you want to use the Community marks. Section 2 of t
 This policy regulates the use of marks held by the Open Street Map Foundation, who acts as a steward for the Community marks.  Sometimes, this policy simply refers to the Trademark steward as “we.” 
 
 ### 1.4. “You”
-This policy applies to “you” if you want to use the Community marks and explains how you may use them. You may be a Community member (as further explained in Sec. 1.4.1) or an unrelated individual or organization (as further explained in Sec. 1.4.2).
+This policy applies to “you” if you want to use the Community marks and explains how you may use them. You may be a community member (as further explained in Sec. 1.4.1) or an unrelated individual or organization (as further explained in Sec. 1.4.2).
 
 #### 1.4.1. Community members
 The community includes everyone who contributes to a community project in furtherance of our mission. It also includes members and staff of recognized OSM organizations, such as the local chapters and the Trademark steward.
@@ -49,10 +49,10 @@ Individuals and companies may want to use our content and display our well-known
 We therefore have to be careful when licensing the marks for these uses. For example, when licensing the marks to an organization that has its own logo, we need to make sure that it doesn’t display any Community mark more prominently than its own logo or name. It’s helpful to always have a proper separation between the organization’s name and logo and any Community mark. Users should clearly see that the organization’s products or services are provided by that other organization rather than the Community. Because of this, such use is never allowed without a trademark license. 
 
 ### 1.5. “Mission”
-The Community marks should only be used for activities that promote our `[insert link to community’s mission statement], which is to [insert a short description of the mission]`. 
+The Community marks should only be used for activities that promote our [mission](https://wiki.osmfoundation.org/wiki/Mission_Statement) to make the best map data set of the world, available under a free and open license to everybody.
 
 ### 1.6. “Community projects”
-The purpose of the marks and this policy is to protect the goodwill created by the community members through their work on collaboratively developed projects.
+The purpose of the marks and this policy is to protect the goodwill created by community members through their work on collaboratively developed projects.
 
 ## 2. How to use the Community marks
 
@@ -83,7 +83,7 @@ Regardless of whether you use a notice or a trademark symbol to identify your us
 ## 3. When you may use the Community marks without asking us 
 
 ### 3.2. Community-focused events
-You may use the trademarks for events that promote our mission and are intended to be predominantly attended by Community community members. These are events like `[insert relevant events attended predominantly by community members]`. 
+You may use the trademarks for events that promote our mission and are intended to be predominantly attended by community members. These are events like `[insert relevant events attended predominantly by community members]`. 
 
 For example, you can put the `[insert name of community’s logo] on banners and posters at an [relevant event attended predominantly by community members]` you've organized. 
 
