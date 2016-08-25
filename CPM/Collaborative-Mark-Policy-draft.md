@@ -63,14 +63,13 @@ Whenever you use the Community marks, note the following:
 
 ### 2.1. Proper form
 
-#### 2.1.1.
-You may use the wordmarks as a proper name (e.g. “Community is great”) or as an adjective (e.g. “the Community projects are awesome”). This includes any of the official translations and transliterations of the Community marks.
+You may:
+* use the wordmarks as a proper name (e.g. “Community is great”) or as an adjective (e.g. “the Community projects are awesome”). This includes any of the official translations and transliterations of the Community marks.
+* use Community wordmarks in their full form and properly capitalized (e.g. "`[insert example of community wordmark]`").
 
-#### 2.1.2.
-You may only use Community wordmarks in their full form and properly capitalized (e.g. “`[insert example of community wordmark]`”). You may not abbreviate them or combine them with other words (e.g. not “`[insert example of abbreviation like "Wiki"]`"). But you can use the marks in any form on the Community projects.
-
-#### 2.1.3.
-You may create remixes of the Community logos on the Community projects.  But outside the Community projects, the logos should not be modified without separate permission from the Trademark steward. We need to make sure that the logos remain distinctive from other marks.
+You may not:
+* abbreviate the wordmarks or combine them with other words (e.g. not "`[insert example of abbreviation like "Wiki"]`").
+* modify or remix the logos without permission from the Trademark steward. We need to make sure that the logos remain distinctive from other marks.
 
 ### 2.2. Notice or trademark symbol
 When reasonable, please include this notice when you use a mark outside of the Community projects: 
