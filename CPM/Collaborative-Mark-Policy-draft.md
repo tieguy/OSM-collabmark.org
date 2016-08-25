@@ -72,13 +72,13 @@ You may not:
 * modify or remix the logos without permission from the Trademark steward. We need to make sure that the logos remain distinctive from other marks.
 
 ### 2.2. Notice or trademark symbol
-When reasonable, please include this notice when you use a mark outside of the Community projects: 
+Please include this notice, or something similar, when you use a mark outside of the Community projects: 
 
-“Wordmark / name of logo as listed `[insert link to list of community’s trademarks]` is a trademark of the `[Trademark steward]`  and is used with the permission of the [Trademark steward]. We are not endorsed by or affiliated with the `[Trademark steward]`.” 
+> Wordmark / name of logo is a trademark of the Open Street Map Foundation, and is used with their permission. We are not endorsed by or affiliated with the Open Street Map Foundation.
 
-The notice should appear near the first use of a Community mark. One notice is enough if you display multiple marks, provided the notice refers to all of them. 
+The notice should appear near the first use of a Community mark. One notice is enough if you display multiple marks, provided the notice refers to all of them.
 
-If the mark will primarily appear on a mobile screen or another medium with limited visual space, you may instead use a trademark symbol (™) with the mark to show that it is a Community trademark. `[If relevant: "For size and location of the trademark symbol, please see the Visual Identity Guidelines."]` When you use a symbol due to limited space and there are additional pages to your material, please include the notice in the text of a prominent page (e.g. most mobile apps have an “about us” section and may display terms during installation).
+If the mark will primarily appear on a mobile screen or another medium with limited visual space, you may instead use a trademark symbol (™) with the mark to show that it is a Community trademark. When you use a symbol due to limited space and there are additional pages to your material, please include the notice in the text of a prominent page (for example, the "about us" section of a mobile app).
 
 Regardless of whether you use a notice or a trademark symbol to identify your use of Community marks, make sure that your use does not suggest endorsement by or affiliation with the Trademark steward. 
 
