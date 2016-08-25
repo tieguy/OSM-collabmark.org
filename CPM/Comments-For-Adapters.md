@@ -11,3 +11,6 @@ If you are a lawyer, to understand the philosophy behind this policy in more det
 
 # Section 2
 * Section 2.2 uses ™ rather than ® because some jurisdictions penalize use of ® when the mark is not registered. If that does not apply to your project (say, because your mark is registered in all relevant jurisdictions) then change this to refer to ®.
+
+# Section 3
+* Section 3.3 may or may not be relevant to your project, depending on whether your mark is fanciful, descriptive, etc. Revieww and revise appropriately.
