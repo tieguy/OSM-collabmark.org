@@ -3,16 +3,11 @@
 # DRAFT
 
 TODOs:
-- [ ] replace "Community" with OSM"
-- [ ] Copy community mission language from existing policy
+- [ ] replace "Community" with OSM"; singularize projects as much as possible
 - [ ] Discuss applicability (nth try at this).
 - [ ] Pick one of "you may" or "you can".
 - [ ] Make clear that mere attribution (as required by the license) is typically nominative use, and does not require a license, unless it somehow implies endorsement?
-
-Open questions for OSM legal team:
-- [ ] License throughout speaks of OSM projects, plural - does that really make sense?
-- [ ] Ask OSM about quick license - does it make sense for OSM?
-- [ ] Social media user names not really well-addressed - should they be in Sec. 3 (permitted, no license) or Sec. 4 (needs license)? Old OSM draft policy tends to imply Sec. 3.4, perhaps with a requirement that you clarify non-endorsement?
+- [ ] Social media user names in Sec. 3.4, perhaps with a requirement that you clarify non-endorsement
 
 ## Introduction
 ### Why does OSM have marks?
