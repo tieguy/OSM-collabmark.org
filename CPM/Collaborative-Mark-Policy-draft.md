@@ -183,9 +183,7 @@ You need a trademark license if you want to make merchandise with the community 
 Some uses of the marks are never permitted. This section discusses the most common examples of such prohibited uses.
 
 ### 5.1. Misleading mirrors and mimicking sites
-Please don’t create a website that mimics the ‘look and feel’ of a Community project. If you have a good reason to create a mimicking site, please contact the Trademark steward at `[email address]`. 
-
-You don’t need to contact us if your mimicking site is clearly a parody. 
+Please don’t create a website that mimics the 'look and feel' of a Community project. If you have a good reason to create a site that uses our look and feel, please contact the Trademark steward at legal@osmfoundation.org. However, you don’t need to contact us if your mimicking site is clearly a parody. 
 
 If you create a mirror, make sure to comply with the relevant licenses for the content. Avoid copying links to legal policies and contact details that are unique for the Community projects. Please don’t use the Community marks in a mirror of a Community site.
 
@@ -198,30 +196,23 @@ When you use a Community mark, do not create the impression that your use is in 
 ## 6. Trademark abuse
 
 ### 6.1. Reporting abuse
-Fighting trademark abuse is very important. We put a lot of effort into going after cases of trademark infringement because we want to protect the valuable trademark rights the community has created. If you see a mark being used in any way that could be infringing, please tell us! Just send an email to the Trademark steward at `[email address]`. We really appreciate your help!
+Fighting trademark abuse is very important. We put a lot of effort into going after cases of trademark infringement because we want to protect the valuable trademark rights the community has created. If you see a mark being used in any way that could be infringing, please tell us! Just send an email to the Trademark steward at legal@osmfoundation.org. We really appreciate your help!
 
 ### 6.2. Revoking permission for abusive uses 
-We may revoke the right to use the Community marks under this policy at any time by providing notice in any manner if we determine that a trademark use is inconsistent with our mission or could harm community members, our project, or the Trademark steward.
+We may revoke the right to use the Community marks under this policy at any time by providing notice in any manner if we determine that a trademark use is inconsistent with our mission, or could harm community members, our project, or the Trademark steward.
 
-## 7. Revision and translation of the trademark policy
+## 7. Revision of the trademark policy
 
-### 7.1.
-This trademark policy can be revised as follows:
-
-#### 7.1.1.
-We will give notice of proposed revisions on the Community projects and in an email to `[relevant community mailing list]`. The community can then comment for at least 30 days.
-
-#### 7.1.2.
-For minor changes or changes required by law, when possible we will provide three days’ notice to `[relevant community mailing list]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
-
-This section does not apply to the user-friendly summary, the FAQs, the purpose statement for the trademark policy, the trademark request form, and the violation reporting form. They are not part of this trademark policy and can always be revised without notice.
+This trademark policy can be revised under the following circumstances:
+* For significant changes, we will give at least 30 days notice, and opportunity to comment, on the Community projects and in an email to `[relevant community mailing list]`.
+* For minor changes or changes required by law, when possible we will provide three days’ notice to `[relevant community mailing list]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
+* For changes to the user-friendly summary, the purpose statement, the FAQs, the trademark request form, and the violation reporting form, we can make changes without notice.
 
 ### 7.2. `[If relevant: Translation of the trademark policy`
 `If some term in a translation of this trademark policy is inconsistent with the original English version of this policy, you should follow the original English version.]`
 
-### 7.3. Questions
+## 8. Questions
 Please don't hesitate to contact us at `[email address]` if you are not sure whether your use is in compliance with this policy or local trademark laws.
-
 
 ## License notes
 
