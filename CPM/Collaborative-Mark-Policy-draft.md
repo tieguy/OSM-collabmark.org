@@ -7,6 +7,8 @@ _Draft_
 - [ ] Consider subsections/clarifying headings (FAQ-style?) in intro paragraph - "what is this document", "what are the goals of the document", etc.
 - [ ] Discuss applicability (nth try at this).
 - [ ] Pick one of "you may" or "you can".
+- [ ] Social media user names not really well-addressed - should they be in Sec. 3 or Sec. 4? Old draft policy tends to imply Sec. 3.4, perhaps with a requirement that you clarify non-endorsement?
+- [ ] Make clear that mere attribution (as required by the license) is typically nominative use, and does not require a license, unless it somehow implies endorsement?
 
 The Community marks represent `[insert  community's mission or overarching project function]`. Trademark protection reinforces the connection between the Community marks and the projects that they represent. The protection serves to ensure that the marks are only used for activities that promote our mission. 
 
@@ -83,7 +85,7 @@ Regardless of whether you use a notice or a trademark symbol to identify your us
 
 ## 3. When you may use the Community marks without asking us
 
-In many cases, you can use the Community marks without asking the Community steward. This section lists those cases. Uses that are not allowed under this Section require a trademark license, discussed in more detail in Section 4.
+In many cases, you can use the Community marks without asking for permission from the Community steward. This section lists those cases. Uses that are not allowed under this Section require a trademark license, discussed in more detail in Section 4.
 
 ### 3.1. Community-focused events
 You may use the trademarks for events that promote our mission and are intended to be predominantly attended by community members, like [mapathons](http://wiki.openstreetmap.org/wiki/Mapathon). For example, you can put the OSM logo on banners and posters to promote a mapathon you've organized. 
@@ -132,25 +134,19 @@ If you want to _sell_ your branded stuff, you can request a license under Sectio
 
 ## 4. Special uses that require permission
 
-All uses that are not allowed under Section 3 of this policy require a trademark license. This section discusses only the most common uses that require a license.
+All uses that are not allowed under Section 3 or prohibited by Section 5 of this policy require a trademark license. This section discusses only the most common uses that require a license.
+
+To contact the Community steward to get a license for one of these uses, email legal@osmfoundation.org with subject "Trademark Use Request" and the information requested below in the relevant section.
 
 When you use our marks under a trademark license, you need to comply with its terms as well as with this trademark policy. If some term in your license is inconsistent with this policy, you should follow the license terms. Related organizations will only need a separate license when the use is not already authorized by their organizational agreements with the Trademark steward or this policy.
 
-### 4.1. Quick license for special community uses
+### 4.1. Domain names
+You need a trademark license to register or use a domain name that contains a Community mark in it. Please don’t register a domain that looks or sounds similar to a Community mark, or includes a misspelled Community mark, as that can confuse Community users.
 
-A quick license is a quick trademark license for common community uses, like `[insert trademark uses that only require a quick license like "hackathons"]`. You can start using the marks as stated in the quick license as soon as you email a filled-in quick license to the Trademark steward at `[email address]`. There is no need to wait for any approval.
-
-#### 4.1.1. Hackathons 
-
-This provision applies to hackathons where people meet to work on Community projects together. You need permission to advertise such an event with a Community mark. But don't worry, we love hackathons! You can get a quick license for flyers, posters, slide presentations, websites, and social media for a hackathon.
-
-### 4.2. Domain names
-You need permission to register or use a domain name that contains a Community mark in it. Please don’t register a domain that looks or sounds similar to a Community mark or includes a misspelled Community mark as that can confuse Community users.
-
-### 4.3. Events and conferences
+### 4.2. Events and conferences
 You need a trademark license if you plan to host a public event or a conference that uses a Community mark. 
 
-[You should include the following information when requesting a license to use our marks in an event.]                                                                                                  
+You should include the following information when requesting a license to use our marks in an event:                                                                                                  
 1. What is the proposed title of the event?
 2. Who is hosting, sponsoring, or coordinating the event? 
 3. Include contact information (and Community username if relevant) for the person organizing the event.
@@ -161,10 +157,10 @@ You need a trademark license if you plan to host a public event or a conference 
 
 When you get a trademark license, it will only apply to the specific event in your request. You will need to apply for a new license if you want to host another event. 
 
-### 4.4. Publications
-You need a trademark license if you want to use a Community mark in a publication in a way that is not fair or nominative use under U.S. trademark law or other applicable foreign laws.
+### 4.3. Publications
+You need a trademark license if you want to use a Community mark in a publication in a way that is not fair or nominative use under U.S. trademark law or other applicable foreign laws, such as a book cover that might imply endorsement of your book by the Community steward.
 
-[You should include the following information when requesting a license to use our marks in a publication.]                                                                                                  
+You should include the following information when requesting a license to use our marks in a publication.                                                                                                  
  1. What is the proposed title of the publication?
  2. Contact information (and Community username if relevant) for the applicant.
  3. Who is the author, editor, and publisher of the publication?
@@ -177,28 +173,10 @@ You need a trademark license if you want to use a Community mark in a publicatio
 
 When you get a trademark license, it will only apply to the specific publication in your request. You will need to apply for a new license if you want to make another publication. 
 
-### 4.5. Movies and TV shows
-You need a trademark license if you want to use the Community’s logo in a movie, TV show episode, or online production.
-
-[You should include the following information when requesting a license to use our marks in a movie or TV show.]                                                                                                    
- 1. What is the proposed title of the movie or TV show?
- 2. Contact information (and Community username if relevant) for the applicant.
- 3. The names of the screenwriter, director, producer, distributor, actors, and any interviewees (for documentaries).
- 4. How will the Community mark be displayed or discussed? Include a printout of any Community project that you want to show.
- 5. Include a script and any footage that has already been created. Unless discussed in the script, specify the location of the film and whether it will advertise a product in conjunction with using the Community marks. 
- 6. Where, when, and how will the movie be distributed? 
- 7. How will it be advertised? Do you intend to display the Community marks on the advertisement? 
-
-When you get a trademark license, it will only apply to the specific film, TV show episode, or online production in your request. You will need to apply for a new license if you want to shoot another film or TV show episode. 
-
-### 4.6. Commercial merchandise 
-You may also make merchandise with the Community marks for commercial use, if:
-#### 4.6.1.
-You get a trademark license from the Trademark steward;
-#### 4.6.2.
-You follow our Visual Identity Guidelines; and
-#### 4.6.3.
-You truthfully advertise to customers how much of the selling price, if any, will be donated to Community projects.
+### 4.4. Commercial merchandise 
+You need a trademark license if you want to make merchandise with the community marks for commercial use. All such licenses will require, at least, that you:
+* use our logos without modifying them; and
+* truthfully advertise to customers how much of the selling price, if any, will be donated to Community projects.
 
 ## 5. Prohibited uses
 
