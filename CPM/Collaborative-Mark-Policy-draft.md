@@ -11,7 +11,7 @@ Our mission relies on and encourages free speech. This trademark policy embraces
 
 To further make it easier for community members to use the marks, this policy introduces some creative trademark solutions. For example, it empowers community members to use the Community marks without a trademark license for community-focused events and outreach work. The policy further introduces a  “quick license” for other common uses that community members can quickly fill out and email to us.  
 
-## 1. What does this policy apply to?
+## 1. Policy definitions and applicability
 
 ### 1.1. The “Community marks”
 This policy applies to all trademarks of the Community. The trademarks are both registered and unregistered trademarks, including non-stylized wordmarks and the trade dress of each Community project. In this policy, we refer to them as the “Community marks” or just “marks.” Here is a non-exclusive list of our trademarks: `[list wordmarks and logos]`.
@@ -19,21 +19,21 @@ This policy applies to all trademarks of the Community. The trademarks are both 
 ### 1.2. “Use” of the Community marks
 This policy applies whenever you want to use the Community marks. Section 2 of this policy applies to all uses of the marks. Other sections apply only to uses that do not require separate permission, uses that require a trademark license, or uses under agreements held by `[insert groups/organizations recognized by the community, if any (e.g. user groups)]`. If some term in your trademark license is inconsistent with this policy, you should follow the license terms. 
 
-### 2.3. “We” or the “Trademark steward”
-This policy regulates the use of marks held by the `[organization or individual that holds the marks]`, who acts as a Trademark steward for the Community marks.  Sometimes, this policy simply refers to the Trademark steward as “we.” 
+### 1.3. “We” or the “Trademark steward”
+This policy regulates the use of marks held by the `[organization or individual that holds the marks]`, who acts as a steward for the Community marks.  Sometimes, this policy simply refers to the Trademark steward as “we.” 
 
 ### 1.4. “You”
 This policy applies to “you” if you want to use the Community marks and explains how you may use them. You may be a member of Community or an unrelated individual or organization. 
 
 #### 1.4.1. Community members
-The community includes everyone who contributes to a community project in furtherance of our mission. It also includes members and staff of `[groups/organizations recognized by the community (e.g. user groups)]` and the Trademark steward.
+The community includes everyone who contributes to a community project to support our mission. It also includes members and staff of `[groups/organizations recognized by the community (e.g. user groups)]` and the Trademark steward.
 
 The members of the community share a common mission. They are the core of the movement. Accordingly, community members are free to use all Community marks on the Community projects and for community-focused events, as well as outreach work without a trademark license. Community members can also easily fill out a quick license for certain other community uses. And we generally give priority to community requests for uses that require an ordinary trademark license.
 
 #### 1.4.2. Other organizations or individuals
-Community projects are so well known that authors and script writers frequently want to portray them in books and movies. Similarly, other companies may want to reuse content from Community projects in web or mobile applications. In doing so, these individuals and companies may want to display our marks in movies, books, apps, or other media. 
+Individuals and companies may want to use our content and display our well-known marks in movies, books, apps, or other media. As long as consumers of those media are not confused about the source of those works, this type of use can promote the Community projects and mission and potentially recruit new contributors to the Community. However, it is important that the Community marks are not misleadingly used to market others’ products, because that will confuse users of our project. 
 
-As long as users are not confused about the source of those works, this type of use can promote the Community projects and mission by expanding the reach of the Community projects and potentially recruiting new members to the Community. But it’s important that the Community marks are not misleadingly used to market others’ products because that will confuse Community users. We therefore have to be careful when licensing the marks for these purposes. For example, when licensing the marks to an organization that has its own logo, we need to make sure that it doesn’t display any Community mark more prominently than its own logo or name. It’s helpful to always have a proper separation between the organization’s name and logo and any Community mark. Users should clearly see that the organization’s products or services are provided by that other organization rather than the Community. And such use is never allowed without a trademark license. 
+We therefore have to be careful when licensing the marks for these uses. For example, when licensing the marks to an organization that has its own logo, we need to make sure that it doesn’t display any Community mark more prominently than its own logo or name. It’s helpful to always have a proper separation between the organization’s name and logo and any Community mark. Users should clearly see that the organization’s products or services are provided by that other organization rather than the Community. Because of this, such use is never allowed without a trademark license. 
 
 ### 1.5. “Mission”
 The Community marks should only be used for activities that promote our `[insert link to community’s mission statement], which is to [insert a short description of the mission]`. 
@@ -69,48 +69,48 @@ Regardless of whether you use a notice or a trademark symbol to identify your us
 
 ## 3. When you may use the Community marks without asking us 
 
-### 3.2. Community-focused events
+### 3.1. Community-focused events
 You may use the trademarks for events that promote our mission and are intended to be predominantly attended by community members. These are events like `[insert relevant events attended predominantly by community members]`. 
 
 For example, you can put the `[insert name of community’s logo] on banners and posters at an [relevant event attended predominantly by community members]` you've organized. 
 
 `[Insert important trademark uses that promote the Community projects but are not predominantly visible only to community members]` require a quick license under Section 4.1. This provision also does not allow you to use the marks for fundraising. 
 
-### 3.3. Outreach and recruiting new volunteers 
+### 3.2. Outreach and recruiting new volunteers 
 You may use the marks consistent with our mission to educate people about the Community projects and to recruit new volunteers, as long as you make it clear that you do not work for the Trademark steward. You can create educational material or banners to decorate a public fair stand or to publicize an `[relevant event]`. But, please don’t sell any of them. 
 
 This provision does not allow you to use the marks for fundraising. 
 
-### 3.4. Discussing something other than Community projects (fair use)
+### 3.3. Discussing something other than Community projects (fair use)
 Wordmarks can sometimes have a primary meaning, in addition to representing a brand (like the words “apple” or “facebook”). Our wordmarks were not real words before our projects were created. But we will interpret fair use broadly to include the use of our wordmarks when you really mean to talk about something other than the Community projects.
 
 
-### 3.5. Refer to Community projects (nominative use)
+### 3.4. Refer to Community projects (nominative use)
 You can use the non-stylized wordmarks (e.g. `["Wikipedia"]`) to describe:
  - A Community project or another aspect of the movement in a text (e.g. `[“I love reading about new things on Wikipedia”]`).
  - Derivative work of a Community project in a way that is not misleading (e.g. `[“the encyclopedic content on this site is derived from Wikipedia”]`).
 
 Here are some specific cases of nominative use:
 
-#### 3.5.1. News reporting
+#### 3.4.1. News reporting
 
 You may use the Community marks to make truthful statements about the Community projects in news reports and commentary.
 
-#### 3.5.2. Personal blogs and social media
+#### 3.4.2. Personal blogs and social media
 You can use the Community marks to make truthful statements about the Community projects in personal blogs and social media. But please don’t do it to imply endorsement by or affiliation to the Trademark steward. To avoid confusion, don’t use the Community logos in the background, as your profile image, or in the header of your blog. You should also not use the marks in the name of your blog or in your social media username. 
 
-#### 3.5.3. Artistic, scientific, literary, political, and other non-commercial uses 
+#### 3.4.3. Artistic, scientific, literary, political, and other non-commercial uses 
 You can use the Community marks to discuss the Community projects in artistic, scientific, literary, and political work. 
 
 But please send us a request if you want to place a Community mark on the cover of your book, display a Community mark in a movie, or organize an event or presentation that could be interpreted to be endorsed by the Trademark steward. For more information, please see the portion of this policy on “special uses that require permission” (Section 4).
 
 You may also use the marks in satire or jokes. To avoid confusing users that your work is affiliated with the Community projects, it may be helpful to mark your work as “satire” or “parody.”
 
-#### 3.5.4. Links to Community projects
+#### 3.4.4. Links to Community projects
 
 You may use the marks on your own website as a hyperlink to the Community projects. `[If relevant: "The use of logos in hyperlinks should follow the Visual Identity Guidelines.  For example, the marks may be resized, but not modified in any other way."]`
 
-### 3.6. Make your own branded stuff
+### 3.5. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. `[If relevant: "Make sure that your design follows the Visual Identity Guidelines."]` If you want to sell your branded stuff, you can request a license under Section 4.6. 
 
 ## 4. Special uses that require permission
@@ -163,7 +163,8 @@ When you get a trademark license, it will only apply to the specific publication
 ### 4.5. Movies and TV shows
 You need a trademark license if you want to use the Community’s logo in a movie, TV show episode, or online production.
 
-[You should include the following information when requesting a license to use our marks in a movie or TV show.]                                                                                                    
+[You should include the following information when requesting a license to use our marks in a movie or TV show.]
+
  1. What is the proposed title of the movie or TV show?
  2. Contact information (and Community username if relevant) for the applicant.
  3. The names of the screenwriter, director, producer, distributor, actors, and any interviewees (for documentaries).
@@ -193,7 +194,7 @@ You don’t need to contact us if your mimicking site is clearly a parody.
 If you create a mirror, make sure to comply with the relevant licenses for the content. Avoid copying links to legal policies and contact details that are unique for the Community projects. Please don’t use the Community marks in a mirror of a Community site.
 
 ### 5.2. Linking to non-Trademark steward sites
-You may use Community marks to link to Community projects only. Please refer to Section 3.5.4 if you want to link to a Community project from your website.
+You may use Community marks to link to Community projects only. Please refer to Section 3.4.4 if you want to link to a Community project from your website.
 
 ### 5.3. Misrepresentation
 When you use a Community mark, do not create the impression that your use is in any way endorsed, or sponsored by, or part of the Trademark steward. This section also applies when you are granted a license to use a mark that doesn’t permit you to suggest such an endorsement.
@@ -208,18 +209,13 @@ We may revoke the right to use the Community marks under this policy at any time
 
 ## 7. Revision and Translation of the trademark policy
 
-### 7.1.
+### 7.1. Revisions
 This trademark policy can be revised as follows:
+* We will give notice of proposed revisions on the Community projects and in an email to `[relevant community mailing list]`. The community can then comment for at least 30 days.
+* For minor changes or changes required by law, when possible we will provide three days’ notice to `[relevant community mailing list]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
+* This section does not apply to the user-friendly summary, the FAQs, the purpose statement for the trademark policy, the trademark request form, and the violation reporting form. They are not part of this trademark policy and can always be revised without notice.
 
-#### 7.1.1.
-We will give notice of proposed revisions on the Community projects and in an email to `[relevant community mailing list]`. The community can then comment for at least 30 days.
-
-#### 7.1.2.
-For minor changes or changes required by law, when possible we will provide three days’ notice to `[relevant community mailing list]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
-
-This section does not apply to the user-friendly summary, the FAQs, the purpose statement for the trademark policy, the trademark request form, and the violation reporting form. They are not part of this trademark policy and can always be revised without notice.
-
-### 7.2. `[If relevant: Translation of the trademark policy`
+### 7.2. `[If relevant: Translations
 `If some term in a translation of this trademark policy is inconsistent with the original English version of this policy, you should follow the original English version.]`
 
 ### 7.3. Questions
