@@ -6,6 +6,8 @@ TODOs:
 - [ ] Discuss applicability (nth try at this).
 - [ ] Make clear that mere attribution (as required by the license) is typically nominative use, and does not require a license, unless it somehow implies endorsement?
 - [ ] Social media user names in Sec. 3.4, perhaps with a requirement that you clarify non-endorsement?
+- [ ] Review [FOSSMarks template](http://modeltrademarkguidelines.org/index.php?title=Model_Trademark_Guidelines#Universal_considerations_for_all_uses.5B4.5D)
+- [ ] Finish all items on [old policy draft TODO](https://docs.google.com/document/d/1OTI9Rwo7_S8G98QMaPxUjKdYz32wLF6hzgFIUs8r0Mo/edit)
 
 ## Introduction
 ### Why does OSM have marks?
