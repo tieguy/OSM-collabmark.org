@@ -3,7 +3,6 @@
 # DRAFT
 
 TODOs:
-- [ ] Discuss applicability (nth try at this).
 - [ ] Review [FOSSMarks template](http://modeltrademarkguidelines.org/index.php?title=Model_Trademark_Guidelines#Universal_considerations_for_all_uses.5B4.5D)
 - [ ] Figure out where to put fundraising, public-facing events, and sales of goods, after discussion on LWG list.
 
@@ -59,9 +58,7 @@ The OSM projects include the OpenStreetMap itself and the underlying database, t
 
 `[QQQ: LV believes OSM has no visual identity guidelines, or equivalent document on use of the mark. Please let me know if otherwise.]` 
 
-This section applies to all uses of the OSM marks, regardless of why you are allowed to use the marks. 
-
-Whenever you use the OSM marks, note the following:
+Whenever you use the OSM marks, regardless of why you are allowed to use the marks, you must comply with the requirements in this section.
 
 ### 2.1. Proper form
 
