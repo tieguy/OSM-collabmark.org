@@ -73,7 +73,7 @@ You may:
 
 You may not:
 * abbreviate the wordmarks or combine them with other words (e.g. not "OpenStreetMapWorld").
-* modify or remix the logos without permission from the OSMF.
+* modify or remix the logos (like the magnifiying glass) without permission from the OSMF.
 
 ### 2.2. Required notices
 Please include this notice, or something similar, when you use a mark outside of the OSM projects: 
