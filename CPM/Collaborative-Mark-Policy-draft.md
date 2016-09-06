@@ -133,7 +133,7 @@ You may use the OSM marks on your own website to identify a hyperlink to the OSM
 ### 3.5. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. 
 
-If you want to _sell_ your stuff with OSM's brand on it, you may request a license under Section 4.6.
+If you want to _sell_ your stuff with OSM's brand on it, you may request a license under Section 4.4.
 
 ### 3.6. Compliance with attribution requirements
 You may use the OpenStreetMap wordmarks as necessary to comply with the attribution requirements imposed by the OSM project's database and copyright licensing terms. For more information on OSM's database and copyright license, and how to credit them, see [the OSM website](https://www.openstreetmap.org/copyright).
