@@ -80,7 +80,7 @@ The notice should appear near the first use of any OSM mark. One notice is enoug
 If the mark will primarily appear on a mobile screen or another medium with limited visual space, you may instead use a trademark symbol (™) with the mark to show that it is an OSM trademark. When you use a symbol due to limited space and there are additional pages to your material, please include the notice in the text of a prominent page (for example, the "about us" section of a mobile app).
 
 ### 2.3. No confusion, endorsement, or affiliation
-No matter how you use the OSM marks, you must ensure that your use does not confuse users by suggesting endorsement by, or affiliation with, the OSMF. Notices such as those in Sec. 2.2 can be used to assist in meeting this requirement.
+Your use of the mark must not confuse users by suggesting endorsement by, or affiliation with, the OSMF. Notices such as those in Sec. 2.2 can be used to help you meet this requirement.
 
 ## 3. When you may use the OSM marks without asking us
 
