@@ -3,7 +3,6 @@
 # DRAFT
 
 TODOs:
-- [ ] Review [FOSSMarks template](http://modeltrademarkguidelines.org/index.php?title=Model_Trademark_Guidelines#Universal_considerations_for_all_uses.5B4.5D)
 - [ ] Figure out where to put fundraising, public-facing events, and sales of goods, after discussion on LWG list.
 
 ## Introduction
