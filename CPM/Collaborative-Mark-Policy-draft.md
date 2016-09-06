@@ -129,7 +129,7 @@ You may also use the marks in satire or jokes. To avoid confusing users about yo
 You may use the OSM marks on your own website to identify a hyperlink to the OSM projects. If you are using the logo, though, do not modify the logo except to resize it.
 
 #### 3.4.5. Compliance with attribution requirements
-You may use the OSM wordmarks as necessary to comply with the attribution requirements imposed by the OSM project's database and copyright licensing terms. For more information on OSM's database and copyright license, and how to credit them, see [the OSM website](https://www.openstreetmap.org/copyright).
+You may use the OSM wordmarks as necessary to comply with the attribution requirements imposed by the OSM project's database and copyright licensing terms. For more information on OSM's database and copyright license, and how to credit us, see [the OSM website](https://www.openstreetmap.org/copyright).
 
 ### 3.5. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. 
