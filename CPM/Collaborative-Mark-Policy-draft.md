@@ -5,7 +5,6 @@
 TODOs:
 - [ ] Discuss applicability (nth try at this).
 - [ ] Make clear that mere attribution (as required by the license) is typically nominative use, and does not require a license, unless it somehow implies endorsement?
-- [ ] Social media user names in Sec. 3.4, perhaps with a requirement that you clarify non-endorsement?
 - [ ] Review [FOSSMarks template](http://modeltrademarkguidelines.org/index.php?title=Model_Trademark_Guidelines#Universal_considerations_for_all_uses.5B4.5D)
 - [ ] Finish all items on [old policy draft TODO](https://docs.google.com/document/d/1OTI9Rwo7_S8G98QMaPxUjKdYz32wLF6hzgFIUs8r0Mo/edit)
 
@@ -117,7 +116,7 @@ You may use the OSM marks to make truthful statements about OSM in news reports 
 #### 3.4.2. Personal blogs and social media
 You may use the OSM marks to make truthful statements about OSM in personal blogs and social media. 
 
-But please don’t imply endorsement by, or affiliation with, the OSMF. To avoid confusion, don’t use OSM logos in the background, as your profile image, or in the header of your blog.
+But please don’t imply endorsement by, or affiliation with, the OSMF. To avoid confusion, don’t use OSM logos in the background, as your profile image, or in the header of your blog. If you use the OSM name in a social media name (like "@ILoveOpenStreetMap") make clear in the network's "about" or "bio" field that the account is not official and is not endorsed by OSMF.
 
 #### 3.4.3. Artistic, scientific, literary, political, and other non-commercial uses 
 You may use the OSM marks to discuss and comment on the OSM projects in artistic, scientific, literary, and political work. 
