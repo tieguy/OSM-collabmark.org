@@ -5,7 +5,7 @@
 TODOs:
 - [ ] Discuss applicability (nth try at this).
 - [ ] Review [FOSSMarks template](http://modeltrademarkguidelines.org/index.php?title=Model_Trademark_Guidelines#Universal_considerations_for_all_uses.5B4.5D)
-- [ ] Finish all items on [old policy draft TODO](https://docs.google.com/document/d/1OTI9Rwo7_S8G98QMaPxUjKdYz32wLF6hzgFIUs8r0Mo/edit)
+- [ ] Figure out where to put fundraising, public-facing events, and sales of goods, after discussion on LWG list.
 
 ## Introduction
 ### Why does OSM have marks?
@@ -92,12 +92,8 @@ In many cases, you may use the OSM marks without asking for permission from the 
 ### 3.1. Community-focused events
 You may use the OSM marks for events that promote OSM's mission and are intended to be predominantly attended by community members, like [mapathons](http://wiki.openstreetmap.org/wiki/Mapathon). For example, you may put the OSM logo on banners and posters to promote a mapathon you've organized. 
 
-This provision does not allow you to use the marks for fundraising.
-
 ### 3.2. Outreach and recruiting new contributors 
-You may use the OSM marks to educate people about OSM and to recruit new contributors, as long as you make it clear that you do not work for OSMF. As part of this, you may create educational material or banners to decorate a public fair stand or to publicize an event. But, please don’t sell any of them. 
-
-This provision does not allow you to use the marks for fundraising. 
+You may use the OSM marks to educate people about OSM and to recruit new contributors, as long as you make it clear that you do not work for OSMF. Things we encourage you to do include creating marketing materials, educational material, or materials to decorate a public fair stand or to publicize an event. But, please don’t sell any of them. 
 
 ### 3.3. Discussing something other than OSM projects (fair use)
 "Open", "Street", and "Map" have their own meanings, in addition to representing OSM's brand when combined. Where these words are used to talk about something other than the OSM projects, OSMF will interpret fair use broadly, in order to protect free speech. `[QQQ: I'm not sure this makes sense in the OSM context - should consider removing section altogether.]` 
