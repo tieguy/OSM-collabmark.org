@@ -155,12 +155,12 @@ When you get a trademark license, it will only apply to the specific event in yo
 ### 4.3. Publications
 You need a trademark license if you want to use an OSM mark in a publication in a way that is not fair or nominative use under U.S. trademark law or other applicable foreign laws, such as a book cover that might imply endorsement of your book by the OSMF.
 
-You should include the following information when requesting a license to use our marks in a publication.                                                                                                  
+You should include the following information when requesting a license to use the OSM marks in a publication.                                                                                                  
  1. What is the proposed title of the publication?
  2. Contact information (and OSM account name if relevant) for the applicant.
  3. Who is the author, editor, and publisher of the publication?
  4. How do you want to use and discuss the mark?
- 5. Include printouts of the pages in your publication that includes or discusses the mark. (For a book, where in the book will the mark appear?)
+ 5. Include printouts of the pages in your publication that include or discusse the mark. (For a book, where in the book will the mark appear?)
  6. If your publication will display a screenshot of an OSM project, please include that as well. 
  7. Will the publication be in hard copy, an e-book, or some other type of medium? 
  8. What is the print run and distribution area for the publication? How many editions will it have?
