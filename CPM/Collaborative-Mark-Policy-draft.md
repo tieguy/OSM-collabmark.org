@@ -32,7 +32,7 @@ The OSM marks are the logos, non-stylized wordmarks, and trade dress of OSM, Sta
 - the logos of the State of the Map conference
 
 ### 1.2. "OSMF"
-The OpenStreetMap Foundation (OSMF) acts as a steward for the OSM marks. OSMF's stewardship includes registering the OSM's marks, promotion and licensing of the marks, and taking steps to protect the goodwill of the marks when necessary.
+The OpenStreetMap Foundation (OSMF) acts as a steward for the OSM marks. OSMF's stewardship includes registering the OSM marks, promotion and licensing of the marks, and taking steps to protect the goodwill of the marks when necessary.
 
 ### 1.3. “You”
 “You” is anyone who wants to use the OSM marks. You may be a community member (as further explained in Sec. 1.3.1) or an unrelated individual or organization (as further explained in Sec. 1.3.2).
@@ -86,44 +86,41 @@ Your use of the mark must not confuse users by suggesting endorsement by, or aff
 In many cases, you may use the OSM marks without asking for permission from the OSMF. This section lists those cases. Uses that are not allowed under this Section require a trademark license, discussed in more detail in Section 4.
 
 ### 3.1. Community-focused events
-You may use the OSM marks for events that promote OSM's mission and are intended to be predominantly attended by community members, like [mapathons](http://wiki.openstreetmap.org/wiki/Mapathon). For example, you may put the OSM logo on banners and posters to promote a mapathon you've organized. 
+You may use the OSM marks for events that promote OSM's mission and are intended to be predominantly attended by community members, like [mapathons](http://wiki.openstreetmap.org/wiki/Mapathon) or [mapping parties](http://wiki.openstreetmap.org/wiki/Mapping_parties). For example, you may put the OSM logo on banners and posters to promote a mapping party you've organized. 
 
 ### 3.2. Outreach and recruiting new contributors 
 You may use the OSM marks to educate people about OSM and to recruit new contributors, as long as you make it clear that you do not work for OSMF. Things we encourage you to do include creating marketing materials, educational material, or materials to decorate a public fair stand or to publicize an event. But, please don’t sell any of them. 
 
-### 3.3. Discussing something other than OSM projects (fair use)
-"Open", "Street", and "Map" have their own meanings, in addition to representing OSM's brand when combined. Where these words are used to talk about something other than the OSM projects, OSMF will interpret fair use broadly, in order to protect free speech. `[QQQ: I'm not sure this makes sense in the OSM context - should consider removing section altogether.]` 
-
-### 3.4. Refer to OSM projects (nominative use)
+### 3.3. Refer to OSM projects (nominative use)
 You may use the non-stylized wordmarks (such as "OpenStreetMap") to factually name or refer to:
  - An OSM project or another aspect of the movement in a text (for example, "I love seeing my town on OpenStreetMap").
  - A project derived from an OSM project in a way that is factual and not misleading (for example, "This company's maps are based on OpenStreetMap", as long as it is accurate that the maps are in fact based on OSM data).
 
 Here are some specific examples of nominative use:
 
-#### 3.4.1. News reporting
+#### 3.3.1. News reporting
 You may use the OSM marks to make truthful statements about OSM in news reports and commentary.
 
-#### 3.4.2. Personal blogs and social media
+#### 3.3.2. Personal blogs and social media
 You may use the OSM marks to make truthful statements about OSM in personal blogs and social media. 
 
 But please don’t imply endorsement by, or affiliation with, the OSMF. To avoid confusion, don’t use OSM logos in the background, as your profile image, or in the header of your blog. If you use the OSM name in a social media name (like "@ILoveOpenStreetMap") make clear in the network's "about" or "bio" field that the account is not official and is not endorsed by OSMF.
 
-#### 3.4.3. Artistic, scientific, literary, political, and other non-commercial uses 
+#### 3.3.3. Artistic, scientific, literary, political, and other non-commercial uses 
 You may use the OSM marks to discuss and comment on the OSM projects in artistic, scientific, literary, and political work. 
 
 But please send us a request if you want to place an OSM mark on the cover of your book, display an OSM mark in a movie, or organize an event or presentation that could appear to be endorsed by OSMF. For more information, please see the portion of this policy on “special uses that require permission” (Section 4).
 
 You may also use the marks in satire or jokes. To avoid confusing users about your work's affiliation with OSM projects, it may be helpful to mark your work as “satire” or “parody.”
 
-#### 3.4.4. Links to OSM projects
+#### 3.3.4. Links to OSM projects
 
 You may use the OSM marks on your own website to identify a hyperlink to the OSM projects. If you are using the logo, though, do not modify the logo except to resize it.
 
-#### 3.4.5. Compliance with attribution requirements
+#### 3.3.5. Compliance with attribution requirements
 You may use the OSM wordmarks as necessary to comply with the attribution requirements imposed by the OSM project's database and copyright licensing terms. For more information on OSM's database and copyright license, and how to credit us, see [the OSM website](https://www.openstreetmap.org/copyright).
 
-### 3.5. Make your own branded stuff
+### 3.4. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. 
 
 If you want to _sell_ your stuff with OSM's brand on it, you may request a license under Section 4.4.
@@ -183,7 +180,7 @@ Some uses of the marks are never permitted. This section discusses the most comm
 Please don’t create a website that mimics the 'look and feel' of an OSM project, such as openstreetmap.org. If you have a good reason to create a site that uses OSM's look and feel, please contact the OSMF at legal@osmfoundation.org.
 
 ### 5.2. Linking to non-OSMF sites
-You may use the OSM marks to link only to OSM projects. Please refer to Section 3.4.4 if you want to link to an OSM project from your website.
+You may use the OSM marks to link only to OSM projects. Please refer to Section 3.3.4 if you want to link to an OSM project from your website.
 
 ### 5.3. Misrepresentation
 When you use an OSM mark, do not create the impression that your use is in any way endorsed, or sponsored by, or part of the OSMF.
