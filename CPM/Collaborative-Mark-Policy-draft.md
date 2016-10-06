@@ -96,7 +96,7 @@ You may use the non-stylized wordmarks (such as "OpenStreetMap") to factually na
  - An OSM project or another aspect of the movement in a text (for example, "I love seeing my town on OpenStreetMap").
  - A project derived from an OSM project in a way that is factual and not misleading (for example, "This company's maps are based on OpenStreetMap", as long as it is accurate that the maps are in fact based on OSM data).
 
-Here are some specific examples of nominative use:
+Specific examples of nominative use include:
 
 #### 3.3.1. News reporting
 You may use the OSM marks to make truthful statements about OSM in news reports and commentary.
