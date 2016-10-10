@@ -191,10 +191,10 @@ You may not register the OSM marks in national registries of intellectual proper
 ### 5.5. Use in company names
 You may not use the OSM marks as part of a company name.
 
-## 6. Trademark abuse
+## 6. Unauthorised use of Trademarks
 
-### 6.1. Reporting abuse
-Fighting trademark abuse is very important. OSMF puts a lot of effort into going after cases of trademark infringement, in order to protect the valuable trademark rights the OSM community has created. If you see a mark being used in any way that could be infringing, please tell us! Just send an email to the OSMF at legal@osmfoundation.org. We appreciate your help!
+### 6.1. Reporting unauthorised use
+This trademark policy goes to great lengths to describe the allowed use of OSM marks. But if you do see the OSM marks being used in ways that may violate this policy, please help us by sending a message to legal@osmfoundation.org. We can then get in touch with whoever is using our mark, and ensure that our trademark rights are respected.
 
 ### 6.2. Revoking permission for abusive uses 
 OSMF may revoke the right to use the OSM marks under this policy at any time if it determines that a trademark use is inconsistent with OSM's mission, or could otherwise harm community members, OSM, OSMF, or the project's goodwill.
