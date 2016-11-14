@@ -48,7 +48,7 @@ As long as consumers of those media are not confused about the source of those w
 OSM's mission is to make the best map data set of the world, available under a free and open license to everybody. For more details, see OSM's [mission statement](https://wiki.osmfoundation.org/wiki/Mission_Statement). 
 
 ### 1.5. “OSM projects”
-The OSM projects include the OpenStreetMap itself and the underlying database, the OpenStreetMap Foundation, the State of the Map conference, and other related community-supported projects. `[QQQ: Any key activities missing here?]`
+The OSM projects include the OpenStreetMap itself and the underlying database, the OpenStreetMap Foundation, the State of the Map conference, and other related community-supported projects.
 
 ## 2. How to use the OSM marks
 
@@ -197,8 +197,8 @@ OSMF may revoke the right to use the OSM marks under this policy at any time if 
 ## 7. Revision of the trademark policy
 
 This trademark policy can be revised under the following circumstances:
-* For significant changes, OSMF will give at least 30 days notice, and opportunity to comment, on the OSM projects and in an email to `[QQQ: relevant community mailing list?]`.
-* For minor changes or changes required by law, when possible OSMF will provide three days’ notice to `[QQQ: relevant community mailing list?]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
+* For significant changes, OSMF will give at least 30 days notice, and opportunity to comment, on the OSM projects and in an email to `[TODO]`.
+* For minor changes or changes required by law, when possible OSMF will provide three days’ notice to `[TODO]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
 * For changes to the user-friendly summary, the purpose statement, the FAQs, the trademark request form, and the violation reporting form, OSMF can make changes without notice.
 
 ## 8. Questions
