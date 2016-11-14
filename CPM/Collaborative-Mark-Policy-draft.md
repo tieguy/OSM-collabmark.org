@@ -1,10 +1,7 @@
 # DRAFT
 # OpenStreetMap Trademark Policy
 # DRAFT
-
-TODOs:
-- [ ] Figure out where to put fundraising, public-facing events, and sales of goods, after discussion on LWG list.
-
+1
 ## Introduction
 ### Why does OSM have marks?
 The OpenStreetMap marks represent OSM and its work to bring open map data to the entire world. When users see the OpenStreetMap name and logo, they should be confident that they are looking at a high quality map that is the result of the rigorous and comprehensive collaboration process of OpenStreetMap. Trademark protection helps reinforce that connection.
@@ -26,9 +23,9 @@ The OSM marks are the logos, non-stylized wordmarks, and trade dress of OSM, Sta
 - the OpenStreetMap magnifying glass logo
 - "OpenStreetMap Foundation"
 - "OSM Foundation"
-- "OSMF" `[QQQ: should this also be limited to the geodata context?]`
+- "OSMF"
 - "State of the Map"
-- "SotM" `[QQQ: should this also be limited to the geodata context?]`
+- "SotM"
 - the logos of the State of the Map conference
 
 ### 1.2. "OSMF"
@@ -54,8 +51,6 @@ OSM's mission is to make the best map data set of the world, available under a f
 The OSM projects include the OpenStreetMap itself and the underlying database, the OpenStreetMap Foundation, the State of the Map conference, and other related community-supported projects. `[QQQ: Any key activities missing here?]`
 
 ## 2. How to use the OSM marks
-
-`[QQQ: LV believes OSM has no visual identity guidelines, or equivalent document on use of the mark. Please let me know if otherwise.]` 
 
 Whenever you use the OSM marks, regardless of why you are allowed to use the marks, you must comply with the requirements in this section.
 
