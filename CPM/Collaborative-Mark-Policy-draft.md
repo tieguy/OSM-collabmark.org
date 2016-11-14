@@ -1,7 +1,7 @@
 # DRAFT
 # OpenStreetMap Trademark Policy
 # DRAFT
-1
+
 ## Introduction
 ### Why does OSM have marks?
 The OpenStreetMap marks represent OSM and its work to bring open map data to the entire world. When users see the OpenStreetMap name and logo, they should be confident that they are looking at a high quality map that is the result of the rigorous and comprehensive collaboration process of OpenStreetMap. Trademark protection helps reinforce that connection.
