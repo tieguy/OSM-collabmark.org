@@ -18,3 +18,7 @@ If you are a lawyer, to understand the philosophy behind this policy in more det
 
 # Section 3
 * Section 3.3 may or may not be relevant to your project, depending on whether your mark is fanciful, descriptive, etc. Review and revise appropriately.
+
+# Attribution
+When you publish your version of the Collabmark guidelines, please be sure to attribute Collabmark.org and the Wikimedia projects appropriately, as required by our Creative Commons BY-SA license. We suggest attributing with the following language:
+> The `project name` Trademark Policy is a derivative of the [Collaborative Mark Policy](https://github.com/collabmark/collabmark.org/blob/master/CPM/Collaborative-Mark-Policy-draft.md) and [Wikimedia Foundation Trademark Policy]( https://wikimediafoundation.org/wiki/Trademark_policy), by [Yana Welinder](https://github.com/YanaW), [Stephen LaPorte](https://github.com/slaporte), and [Wikimedia contributors](https://wikimediafoundation.org/w/index.php?title=Trademark_policy&offset=&limit=500&action=history), used under the [Creative Commons Attribution-ShareAlike 3.0 (unported)](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license. The `project name` Trademark Policy is licensed under CC BY-SA 3.0 by the `authors, including link`. Modifications made to the Collaborative Mark Policy can be found `link, ideally to Github if possible`.
