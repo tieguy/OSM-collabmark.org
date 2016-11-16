@@ -148,7 +148,7 @@ You should include the following information when requesting a license to use OS
 When you get a trademark license, it will only apply to the specific event in your request. You will need to apply for a new license if you want to host another event. 
 
 ### 4.3. Publications
-You need a trademark license if you want to use an OSM mark in a publication in a way that is not fair or nominative use under U.S. trademark law or other applicable foreign laws, such as a book cover that might imply endorsement of your book by the OSMF.
+You need a trademark license if you want to use a Community mark in a publication in a way that is not fair, nominative, or referential use under applicable law, such as a book cover that might imply endorsement of your book by the OSMF.
 
 You should include the following information when requesting a license to use the OSM marks in a publication.                                                                                                  
  1. What is the proposed title of the publication?
