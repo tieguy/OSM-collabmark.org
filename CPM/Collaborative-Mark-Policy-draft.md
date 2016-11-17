@@ -197,8 +197,8 @@ OSMF may revoke the right to use the OSM marks under this policy at any time if 
 ## 7. Revision of the trademark policy
 
 This trademark policy can be revised under the following circumstances:
-* For significant changes, OSMF will give at least 30 days notice, and opportunity to comment, on the OSM projects and in an email to `[TODO]`.
-* For minor changes or changes required by law, when possible OSMF will provide three days’ notice to `[TODO]`.  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
+* For significant changes, OSMF will give at least 30 days notice, and opportunity to comment, on the OSM projects and in an email to `announce@openstreetmap.org` ([subscribe](https://lists.openstreetmap.org/listinfo/announce)).
+* For minor changes or changes required by law, when possible OSMF will provide three days’ notice to `talk@openstreetmap.org`([subscribe](https://lists.openstreetmap.org/listinfo/talk)).  Minor changes include language fixes, administrative changes, or corrections of inaccurate statements.
 * For changes to the user-friendly summary, the purpose statement, the FAQs, the trademark request form, and the violation reporting form, OSMF can make changes without notice.
 
 ## 8. Questions
