@@ -86,12 +86,13 @@ You may use the OSM marks for events that promote OSM's mission and are intended
 ### 3.2. Outreach and recruiting new contributors 
 You may use the OSM marks to educate people about OSM and to recruit new contributors, as long as you make it clear that you do not work for OSMF. Things we encourage you to do include creating marketing materials, educational material, or materials to decorate a public fair stand or to publicize an event. But, please don’t sell any of them. 
 
-### 3.3. Refer to OSM projects (nominative use)
+### 3.3. Refer to OSM projects (nominative/referential use)
 You may use the non-stylized wordmarks (such as "OpenStreetMap") to factually name or refer to:
  - An OSM project or another aspect of the movement in a text (for example, "I love seeing my town on OpenStreetMap").
  - A project derived from an OSM project in a way that is factual and not misleading (for example, "This company's maps are based on OpenStreetMap", as long as it is accurate that the maps are in fact based on OSM data).
+This use of our marks is called "nominative" or "referential" use, and is already allowed by law in some legal systems. 
 
-Specific examples of nominative use include:
+Specific examples of nominative/referential use include:
 
 #### 3.3.1. News reporting
 You may use the OSM marks to make truthful statements about OSM in news reports and commentary.
