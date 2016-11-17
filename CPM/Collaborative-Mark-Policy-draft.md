@@ -204,12 +204,5 @@ This trademark policy can be revised under the following circumstances:
 ## 8. Questions
 Please don't hesitate to contact OSMF at legal@osmfoundation.org if you are not sure whether your use is in compliance with this policy or local trademark laws.
 
-## License notes
-
-The OSM Mark Policy is a derivative of the Sample Trademark Policy for Collaborative Communities and Wikimedia Trademark Policy under the Creative Commons Attribution ShareAlike 3.0 (unported) license (CC BY-SA 3.0). 
-
-The Wikimedia Trademark Policy, and a list of the contributors to it, is available at https://wikimediafoundation.org/wiki/Trademark_policy.
-
-The Sample Trademark Policy for Collaborative Communities, and a list of the contributors to it, is available at https://github.com/collabmark/collabmark.org
-
-The terms of the CC BY-SA 3.0 license are available at https://creativecommons.org/licenses/by-sa/3.0/
+## About This Policy
+The OpenStreetMap Trademark Policy is a derivative of the [Collaborative Mark Policy](https://github.com/collabmark/collabmark.org/blob/master/CPM/Collaborative-Mark-Policy-draft.md) and [Wikimedia Foundation Trademark Policy]( https://wikimediafoundation.org/wiki/Trademark_policy), by [Yana Welinder](https://github.com/YanaW), [Stephen LaPorte](https://github.com/slaporte), and [Wikimedia contributors](https://wikimediafoundation.org/w/index.php?title=Trademark_policy&offset=&limit=500&action=history), used under the [Creative Commons Attribution-ShareAlike 3.0 (unported)](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license. The OpenStreetMap Trademark Policy is also licensed under CC BY-SA 3.0 by its [authors](https://github.com/tieguy/OSM-collabmark.org/graphs/contributors). Modifications made to the Collaborative Mark Policy can be found `TODO - link to diff`.
