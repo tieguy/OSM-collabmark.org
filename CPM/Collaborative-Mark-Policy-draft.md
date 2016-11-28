@@ -138,13 +138,13 @@ As an exception to this requirement, you may use an OSM mark in a subdomain (suc
 You need a trademark licence if you plan to host a public event or a conference that uses an OSM mark. 
 
 You should include the following information when requesting a licence to use OSM's marks in an event:                                                                                                  
-1. What is the proposed title of the event?
-2. Who is hosting, sponsoring, or coordinating the event? 
-3. Include contact information (and OSM account name if relevant) for the person organizing the event.
-4. Is the event organized for community members?
-5. What is the topic of the event?
-6. The location, date, and duration of the event.
-7. Include handouts, examples, mockups, or other descriptions of the proposed use.
+ 1. What is the proposed title of the event?
+ 2. Who is hosting, sponsoring, or coordinating the event? 
+ 3. Include contact information (and OSM account name if relevant) for the person organizing the event.
+ 4. Is the event organized for community members?
+ 5. What is the topic of the event?
+ 6. The location, date, and duration of the event.
+ 7. Include handouts, examples, mockups, or other descriptions of the proposed use.
 
 When you get a trademark licence, it will only apply to the specific event in your request. You will need to apply for a new licence if you want to host another event. 
 
