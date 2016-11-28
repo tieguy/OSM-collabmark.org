@@ -48,7 +48,7 @@ As long as consumers of those media are not confused about the source of those w
 OSM's mission is to make the best map data set of the world, available under a free and open licence to everybody. For more details, see OSM's [mission statement](https://wiki.osmfoundation.org/wiki/Mission_Statement). 
 
 ### 1.5. “OSM projects”
-The OSM projects include the OpenStreetMap itself and the underlying database, the OpenStreetMap Foundation, the State of the Map conference, and other related community-supported projects.
+The OSM projects include the OpenStreetMap website and database, the OpenStreetMap Foundation, the State of the Map conference, and other related community-supported projects.
 
 ## 2. How to use the OSM marks
 
@@ -173,7 +173,7 @@ You need a trademark licence if you want to make merchandise with the OSM marks 
 Some uses of the marks are never permitted. This section discusses the most common examples of such prohibited uses.
 
 ### 5.1. Mimicking OSM sites
-Please don’t create a website that mimics the 'look and feel' of an OSM project, such as openstreetmap.org. If you have a good reason to create a site that uses OSM's look and feel, please contact the OSMF at legal@osmfoundation.org.
+Please don’t create a website that mimics the 'look and feel' of [openstreetmap.org](http://openstreetmap.org), [osmfoundation.org](http://osmfoundation.org), or other OSM projects. If you have a good reason to create a site that uses OSM's look and feel, please contact the OSMF at legal@osmfoundation.org.
 
 ### 5.2. Linking to non-OSMF sites
 You may use the OSM marks to link only to OSM projects. Please refer to Section 3.3.4 if you want to link to an OSM project from your website.
