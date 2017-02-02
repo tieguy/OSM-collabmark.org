@@ -19,14 +19,17 @@ For more information on how trademark can be useful for open source projects, se
 ### 1.1. The “OSM marks”
 The OSM marks are the logos, non-stylized wordmarks, and trade dress of OSM, State of the Map, the OpenStreetMap Foundation, and related projects. Some of the marks are registered and some are not. A non-exclusive list of the OSM marks includes: 
 - "OpenStreetMap"
-- "OSM" when used in the geo data context
 - the OpenStreetMap magnifying glass logo
 - "OpenStreetMap Foundation"
 - "OSM Foundation"
-- "OSMF"
 - "State of the Map"
-- "SotM"
 - the logos of the State of the Map conference
+
+And the following abbreviations when used in the OpenStreetMap or geodata context:
+- "OSM" 
+- "OSMF"
+- "SotM"
+
 
 ### 1.2. "OSMF"
 The OpenStreetMap Foundation (OSMF) acts as a steward for the OSM marks. OSMF's stewardship includes registering the OSM marks, promotion and licensing of the marks, and taking steps to protect the goodwill of the marks when necessary.
