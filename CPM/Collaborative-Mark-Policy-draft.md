@@ -64,8 +64,8 @@ You may:
 * use OSM wordmarks in their full form and properly capitalized (e.g. "State of the Map was fun this year").
 
 You may not:
-* abbreviate the wordmarks or combine them with other words (e.g. not "OpenStreetMapWorld").
-* modify or remix the logos (like the magnifiying glass) without permission from the OSMF.
+* abbreviate the wordmarks, combine them with other words ("OpenStreetMapThing"), or substitute words in the mark ("OpenStreetThing" or "OpenThingMap"), especially where the new combination sounds similar to OpenStreetMap.
+* modify or remix the logos (like the magnifiying glass) without permission from the OSMF unless it is for purposes laid out in 3.5.
 
 ### 2.2. Required notices
 Please include this notice, or something similar, when you use a mark outside of the OSM projects: 
@@ -120,9 +120,17 @@ You may use the OSM marks on your own website to identify a hyperlink to the OSM
 You may use the OSM wordmarks as necessary to comply with the attribution requirements imposed by the OSM project's database and copyright licensing terms. For more information on OSM's database and copyright licence, and how to credit us, see [the OSM website](https://www.openstreetmap.org/copyright).
 
 ### 3.4. Make your own branded stuff
-You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! But please don’t sell them. 
+You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! You may also give these items to other people, either for free or for money, as long as you don't do this professionally or ask for more than cost recovery. (Printing a batch of t-shirts for an event is ok; setting up a web shop where people can order t-shirts is not.)
+
+If you want to sell stuff with OSM's brand on it professionally, you may request a licence under Section 4.4. 
 
 If you want to _sell_ your stuff with OSM's brand on it, you may request a licence under Section 4.4.
+
+### 3.5. Use of remixed logos 
+Use of remixed logos is permissible for
+ - free open source tools and editors specifically for OpenStreetMap data
+ - local chapter and user group logos
+as long as the use follows the rest of this policy.
 
 ## 4. Special uses that require permission
 
@@ -170,6 +178,9 @@ When you get a trademark licence, it will only apply to the specific publication
 You need a trademark licence if you want to make merchandise with the OSM marks for commercial use. All such licences will require, at least, that you:
 * use OSM's logos without modifying them; and
 * truthfully advertise to customers how much of the selling price, if any, will be donated to OSM projects.
+
+### 4.5. Fundraising 
+You need a trademark licence if you are are referring to OpenStreetMap in the context of fundraising in any form. 
 
 ## 5. Prohibited uses
 
