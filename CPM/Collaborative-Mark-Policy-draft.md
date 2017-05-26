@@ -185,7 +185,7 @@ You need a trademark licence if you are using or referring to the OpenStreetMap 
 Some uses of the marks are never permitted. This section discusses the most common examples of such prohibited uses.
 
 ### 5.1. Mimicking OSM sites
-Please feel free to use the available opensource software and map styles that the OpenStreetMap websites [openstreetmap.org](http://openstreetmap.org), [osmfoundation.org](http://osmfoundation.org) and other OSM projects are based on, in your projects. If the websites are publicly accessible, you need to ensure that they cannot be confused with the original OpenStreetMap websites, for example logos, colour schemes, naming and referring domains have to be substantially different. If you are unsure if your website project infringes this policy, please contact the OSMF at legal@osmfoundation.org.
+Please feel free to use the available open source software and map styles that the OpenStreetMap websites [openstreetmap.org](http://openstreetmap.org), [osmfoundation.org](http://osmfoundation.org) and other OSM projects are based on, in your projects. If the websites are publicly accessible, you need to ensure that they cannot be confused with the original OpenStreetMap websites, for example logos, colour schemes, naming and referring domains have to be substantially different. If you are unsure if your website project infringes this policy, please contact the OSMF at legal@osmfoundation.org.
 
 ### 5.2. Linking to non-OSMF sites
 You may use the OSM marks to link only to OSM projects. Please refer to Section 3.3.4 if you want to link to an OSM project from your website.
