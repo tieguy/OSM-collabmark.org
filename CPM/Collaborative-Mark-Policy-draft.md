@@ -165,7 +165,7 @@ You should include the following information when requesting a licence to use th
  2. Contact information (and OSM account name if relevant) for the applicant.
  3. Who is the author, editor, and publisher of the publication?
  4. How do you want to use and discuss the mark?
- 5. Include printouts of the pages in your publication that include or discusse the mark. (For a book, where in the book will the mark appear?)
+ 5. Include printouts of the pages in your publication that include or discuss the mark. (For a book, where in the book will the mark appear?)
  6. If your publication will display a screenshot of an OSM project, please include that as well. 
  7. Will the publication be in hard copy, an e-book, or some other type of medium? 
  8. What is the print run and distribution area for the publication? How many editions will it have?
