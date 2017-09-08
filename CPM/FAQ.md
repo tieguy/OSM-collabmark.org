@@ -14,6 +14,6 @@ Alternately, on a case-by-case basis, the OSMF may determine that it is necessar
 
 We intend to apply the same policy and licensing requirements as outlined above for use of remixes of the marks, for example "OpenThingMap". We will however consider licensing such use for registrations up to the publishing date of the Trademark Policy.
 
-## Do I need to add a trademark notice additionally to adding attribution
+## Do I need to add a trademark notice additionally to adding attribution?
 
 We do not require a trademark disclaimer in addition to providing attribution as long as the use is non-confusing, if you use the OSM marks outside of just attribution you do need to provide a notice as suggested in 2.2.
