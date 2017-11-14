@@ -195,7 +195,7 @@ You may use the OSM marks to link only to OSM projects. Please refer to Section 
 When you use an OSM mark, do not create the impression that your use is in any way endorsed, or sponsored by, or part of the OSMF.
 
 ### 5.4. Registration in other jurisdictions
-You may not register the OSM marks in registries of intellectual property, such as a trademark register. The OSM marks are used and recognized globally in connection with the services offered by the OSMF, and cannot be registered or otherwise claimed by you or other third-parties. If you are a community member who lives in a jurisdiction, and would like to see an OSM mark protected in your jurisdiction, please contact legal@osmfoundation.org.
+You may not register the OSM marks in registries of intellectual property, such as a trademark register. The OSM marks are used and recognized globally in connection with the services offered by the OSMF, and cannot be registered or otherwise claimed by you or other third-parties. If you are a community member and would like to see an OSM mark protected in your jurisdiction, please contact legal@osmfoundation.org.
 
 ### 5.5. Use in company names
 You may not use the OSM marks as part of a company name.
