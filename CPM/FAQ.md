@@ -8,7 +8,7 @@ Domain and company names registered in good faith before January 1st, 2013, will
 * bankruptcy, dissolution, or similar corporate events; or
 * death of an individual non-corporate licensee
 
-Alternately, on a case-by-case basis, the OSMF may determine that it is necessary to avoid such issues by having such marks or names transferred to the OSMF and to licensing them back to the registrant. In such a case the OSMF will carry all costs of the transfer.
+Alternately, on a case-by-case basis, the OSMF may determine that it is necessary to avoid such issues by having such marks or names transferred to the OSMF and licensing them back to the registrant. In such a case the OSMF will carry all costs of the transfer.
 
 ## What can I do with domains or company names using remixes of "OpenStreetMap" and other OSM marks?
 
@@ -17,3 +17,7 @@ We intend to apply the same policy and licensing requirements as outlined above 
 ## Do I need to add a trademark notice additionally to adding attribution?
 
 We do not require a trademark disclaimer in addition to providing attribution as long as the use is non-confusing, if you use the OSM marks outside of just attribution you do need to provide a notice as suggested in 2.2.
+
+## Can I use "State of the Map" or "SOTM" as or in the name of my conference?
+
+3.1 allows use of the marks for community events, however due to the high likelihood of scheduling conflicts and the non-community nature of certain aspects (commercial product marketing and so on) of formal conferences in general, all use of "State of the Map" and "SOTM" require a licence, please use the corresponding template. 
