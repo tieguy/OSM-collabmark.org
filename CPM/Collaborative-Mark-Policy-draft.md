@@ -159,7 +159,7 @@ You should include the following information when requesting a licence to use OS
 When you get a trademark licence, it will only apply to the specific event in your request. You will need to apply for a new licence if you want to host another event. 
 
 ### 4.3. Publications
-You need a trademark licence if you want to use a Community mark in a publication in a way that is not fair, nominative, or referential use under applicable law, such as a book cover that might imply endorsement of your book by the OSMF.
+You need a trademark licence if you want to use an OSM mark in a publication in a way that is not fair, nominative, or referential use under applicable law, such as a book cover that might imply endorsement of your book by the OSMF.
 
 You should include the following information when requesting a licence to use the OSM marks in a publication.                                                                                                  
  1. What is the proposed title of the publication?
@@ -185,7 +185,7 @@ You need a trademark licence if you are using or referring to the OSM marks to f
 
 Some uses of the marks are never permitted. This section discusses the most common examples of such prohibited uses.
 
-### 5.1. Mimicking OSM sites
+### 5.1. Mimicking OpenStreetMap sites
 Please feel free to use the available open source software and map styles subject to their licences that the OpenStreetMap websites [openstreetmap.org](http://openstreetmap.org), [osmfoundation.org](http://osmfoundation.org) and other OSM projects are based on. If the websites are publicly accessible, you need to ensure that they cannot be confused with the original OpenStreetMap websites, for example logos, colour schemes, naming and referring domains have to be substantially different. If you are unsure if your website project infringes this policy, please contact the OSMF at legal@osmfoundation.org.
 
 ### 5.2. Linking to non-OSMF sites
