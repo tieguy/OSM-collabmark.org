@@ -123,7 +123,7 @@ Use of the OSM marks to name software components, packages, minor tools, reposit
 ### 3.4. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! You may also give these items to other people, either for free or for not more money than required for cost recovery.
 
-If you want to _sell_ stuff with OSM's brand on it professionally, you may request a licence under Section 4.4. 
+If you want to _sell_ stuff with OSM's brand on it professionally, you must obtain a licence as required in Section 4.4. 
 
 ### 3.5. Use of remixed logos 
 Use of remixed logos is permissible for
