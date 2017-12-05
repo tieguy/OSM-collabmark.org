@@ -118,7 +118,7 @@ You may use the OSM marks on your own website to identify a hyperlink to the OSM
 You may use the OSM wordmarks as necessary to comply with the attribution requirements imposed by the OSM project's database and copyright licensing terms. For more information on OSM's database and copyright licence, and how to credit us, see [the OSM website](https://www.openstreetmap.org/copyright).
 
 #### 3.3.6. Use in software projects
-Use of the OSM marks to name software components, packages, minor tools, repositories and similar that process or work specifically with OpenStreetMap data is permissible as long as the use follows the rest of this policy. The permission does not include use of the OSM marks in a confusing manner, such as to market software products in a way that implies they are official OSMF products. To dispel possible confusion, please use appropriate disclaimers.
+Use of the OSM marks to name software components, packages, minor tools, repositories and similar that process or work specifically with OpenStreetMap data is permissible as long as the use follows the rest of this policy. The permission does not include use of the OSM marks in a confusing manner, such as to market software products in a way that implies they are official OSMF products. To avoid possible confusion, please use appropriate disclaimers, such as those in Section 2.2.
 
 ### 3.4. Make your own branded stuff
 You may create things with the marks for your own use. These can be t-shirts, caps, desktop wallpapers, and even cakes! You may also give these items to other people, either for free or for not more money than required for cost recovery.
