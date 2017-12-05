@@ -21,3 +21,7 @@ We do not require a trademark disclaimer in addition to providing attribution as
 ## Can I use "State of the Map" or "SOTM" as or in the name of my conference?
 
 3.1 allows use of the marks for community events, however due to the high likelihood of scheduling conflicts and the non-community nature of certain aspects (commercial product marketing and so on) of formal conferences in general, all use of "State of the Map" and "SOTM" require a licence, please use the corresponding template. 
+
+## I want to run a website for our local user group, using a domain containing "OpenStreetMap"
+
+To support informal local users groups and to keep things simply, the OSMF offers to register the domain for your group and to point it at the groups website as long as the terms of the trademark policy are followed and this can be done without causing conflicts with other user groups.
