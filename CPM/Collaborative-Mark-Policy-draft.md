@@ -133,10 +133,9 @@ as long as the use follows the rest of this policy.
 
 ## 4. Special uses that require permission
 
-All uses that are not allowed under Section 3 or prohibited by Section 5 of this policy require a trademark licence. This section discusses only the most common uses that require a licence.
+All uses that are not allowed under Section 3 require a trademark licence. This section discusses only the most common uses that require a licence. Uses prohibited by Section 5 of this policy are not allowed, absent exceptional circumstances.
 
 To contact the OSMF to get a licence for one of these uses, email legal@osmfoundation.org with subject "Trademark Use Request" and the information requested below in the relevant section.
-
 When you use OSM's marks under a trademark licence, you need to comply with the terms of that licence as well as with this trademark policy. If a term in another licence is inconsistent with this policy, you must follow the terms of that licence. 
 
 ### 4.1. Domain names
