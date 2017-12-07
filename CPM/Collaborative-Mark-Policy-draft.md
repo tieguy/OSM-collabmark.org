@@ -198,7 +198,7 @@ When you use an OSM mark, do not create the impression that your use is in any w
 You may not register the OSM marks in registries of intellectual property, such as a trademark register. The OSM marks are used and recognized globally in connection with the services offered by the OSMF, and cannot be registered or otherwise claimed by you or other third-parties. If you are a community member and would like to see an OSM mark protected in your jurisdiction, please contact legal@osmfoundation.org.
 
 ### 5.5. Use in company names
-You may not use the OSM marks as part of a company or organisation name except if you have been granted a licence as an OSMF local chapter.
+You may not use the OSM marks as part of the name of an incorporated company or organisation except if you have been granted a licence as an OSMF local chapter.
 
 ## 6. Unauthorised use of Trademarks
 
