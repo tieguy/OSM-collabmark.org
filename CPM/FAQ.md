@@ -24,4 +24,4 @@ We do not require a trademark disclaimer in addition to providing attribution as
 
 ## I want to run a website for our local user group, using a domain containing "OpenStreetMap"
 
-To support informal local users groups and to keep things simply, the OSMF offers to register the domain for your group and to point it at the groups website as long as the terms of the trademark policy are followed and this can be done without causing conflicts with other user groups.
+To support informal local users groups and to keep things simple, the OSMF offers to register the domain for your group and to point it at the groups website as long as the terms of the trademark policy are followed and this can be done without causing conflicts with other user groups.
