@@ -1,6 +1,5 @@
 # DRAFT
 # OpenStreetMap Trademark Policy
-# DRAFT
 
 ## Introduction
 ### Why does OpenStreetMap have marks?
@@ -135,7 +134,7 @@ as long as the use follows the rest of this policy.
 
 All uses that are not allowed under Section 3 require a trademark licence. This section discusses only the most common uses that require a licence. Uses prohibited by Section 5 of this policy are not allowed, absent exceptional circumstances.
 
-To contact the OSMF to get a licence for one of these uses, email legal@osmfoundation.org with subject "Trademark Use Request" and the information requested below in the relevant section.
+To contact the OSMF to get a licence for one of these uses, email trademarks@osmfoundation.org with subject "Trademark Use Request" and the information requested below in the relevant section.
 When you use OSM's marks under a trademark licence, you need to comply with the terms of that licence as well as with this trademark policy. If a term in another licence is inconsistent with this policy, you must follow the terms of that licence. 
 
 ### 4.1. Domain names
@@ -194,7 +193,7 @@ You may use the OSM marks to link only to OSM projects. Please refer to Section 
 When you use an OSM mark, do not create the impression that your use is in any way endorsed, or sponsored by, or part of the OSMF.
 
 ### 5.4. Registration in other jurisdictions
-You may not register the OSM marks in registries of intellectual property, such as a trademark register. The OSM marks are used and recognized globally in connection with the services offered by the OSMF, and cannot be registered or otherwise claimed by you or other third-parties. If you are a community member and would like to see an OSM mark protected in your jurisdiction, please contact legal@osmfoundation.org.
+You may not register the OSM marks in registries of intellectual property, such as a trademark register. The OSM marks are used and recognized globally in connection with the services offered by the OSMF, and cannot be registered or otherwise claimed by you or other third-parties. If you are a community member and would like to see an OSM mark protected in your jurisdiction, please contact trademarks@osmfoundation.org.
 
 ### 5.5. Use in company names
 You may not use the OSM marks as part of the name of an incorporated company or organisation except if you have been granted a licence as an OSMF local chapter.
@@ -215,7 +214,7 @@ This trademark policy can be revised under the following circumstances:
 * For changes to the user-friendly summary, the purpose statement, the FAQs, the trademark request form, and the violation reporting form, OSMF can make changes without notice.
 
 ## 8. Questions
-Please don't hesitate to contact OSMF at legal@osmfoundation.org if you are not sure whether your use is in compliance with this policy or local trademark laws.
+Please don't hesitate to contact OSMF at legal-questions@osmfoundation.org if you are not sure whether your use is in compliance with this policy or local trademark laws.
 
 ## About This Policy
-The OpenStreetMap Trademark Policy is a derivative of the [Collaborative Mark Policy](https://github.com/collabmark/collabmark.org/blob/master/CPM/Collaborative-Mark-Policy-draft.md) and [Wikimedia Foundation Trademark Policy]( https://wikimediafoundation.org/wiki/Trademark_policy), by [Yana Welinder](https://github.com/YanaW), [Stephen LaPorte](https://github.com/slaporte), and [Wikimedia contributors](https://wikimediafoundation.org/w/index.php?title=Trademark_policy&offset=&limit=500&action=history), used under the [Creative Commons Attribution-ShareAlike 3.0 (unported)](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license. The OpenStreetMap Trademark Policy is also licensed under CC BY-SA 3.0 by its [authors](https://github.com/tieguy/OSM-collabmark.org/graphs/contributors). Modifications made to the Collaborative Mark Policy can be found `TODO - link to diff`.
+The OpenStreetMap Trademark Policy is a derivative of the [Collaborative Mark Policy](https://github.com/collabmark/collabmark.org/blob/master/CPM/Collaborative-Mark-Policy-draft.md) and [Wikimedia Foundation Trademark Policy]( https://wikimediafoundation.org/wiki/Trademark_policy), by [Yana Welinder](https://github.com/YanaW), [Stephen LaPorte](https://github.com/slaporte), and [Wikimedia contributors](https://wikimediafoundation.org/w/index.php?title=Trademark_policy&offset=&limit=500&action=history), used under the [Creative Commons Attribution-ShareAlike 3.0 (unported)](https://creativecommons.org/licenses/by-sa/3.0/deed.en) license. The OpenStreetMap Trademark Policy is also licensed under CC BY-SA 3.0 by its authors Luis Villa, Kathleen Lu, Simon Poole and other members of the OSMF Licence Working Group. Modifications made to the Collaborative Mark Policy can be found [on github](https://github.com/collabmark/collabmark.org/compare/master...simonpoole:OSM-draft).
